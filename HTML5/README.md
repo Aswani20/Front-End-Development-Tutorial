@@ -2,6 +2,6 @@
 
 ```HTML5
 
-<!DOCTYPE html>
+<!DOCTYPE html>  <!-- is the document type declaration in HTML5 -->
 
 ```
