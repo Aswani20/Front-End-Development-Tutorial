@@ -163,7 +163,7 @@ div{
 /*End*/
     
     ```html
-    <hr>
+    <hr/>
     ```
     
     /*Grouping Multiple Selectors*/
