@@ -100,6 +100,7 @@ div{
     
     
     /*Display*/
+    
     /* Ctrl+h to replace any thin in all shhet*/
     /* Alt and select to move more than one cursor*/
 
