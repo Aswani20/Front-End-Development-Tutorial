@@ -1,9 +1,5 @@
 # CSS3 Tutorial
-```html
 
-[<kbd> <br> Title <br> </kbd>][Link]
-
-```
 
 
 ```css
