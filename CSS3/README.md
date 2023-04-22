@@ -162,6 +162,9 @@ div{
 } 
 /*End*/
     
+    ```html
+    <hr>
+    ```
     
     /*Grouping Multiple Selectors*/
     .one,
