@@ -141,6 +141,15 @@ div{
     display: none;
     visibility: hidden;
     
+    /*Width and Hight*/
+    width: 400px;
+    min-width: 400px;
+    max-width: 400px;
+    width: fit-content;
+    height: 600px;
+    min-height: 600px;
+    max-height: 1200px;
+    
 } 
 /*End*/
     
