@@ -96,6 +96,38 @@ div{
     /*the same like border but it's size don't add to div width */
     /*in outline you can't select side like outline-top*/
     outline: 10px solid red;
-}
+    
+    
+    
+    /*Display*/
+    /* Ctrl+h to replace any thin in all shhet*/
+    /* Alt and select to move more than one cursor*/
+
+    /*
+    Block
+
+    - Take Full Width If No Width
+    - Add Line Break
+    - Respect Padding, Margin, Width, Height
+
+    Inline
+
+    - Don't Add Line Break
+    - Don't Respect Width, Height
+    - Respect Padding, Margin [Just left + right]
+    - Allow Elements Before And After It
+
+    Inline-Block
+
+    - Allow Elements Before And After It
+    - Respect Padding, Margin, Width, Height
+
+
+    */
+
+    display: block;
+    display: inline;
+    display: inline-block;
+    }
 
 ```
