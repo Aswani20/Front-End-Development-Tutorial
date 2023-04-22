@@ -15,23 +15,85 @@
 <p></p>
 <b></b> <!--to apply bold styling displayed in bold font. It does not carry any semantic meaning -->
 <strong></strong> <!-- is a semantic tag that indicates that the enclosed text is of strong importance or emphasis, is used to indicate text that is more important -->
-          <i></i>
-          <em></em>
-          <mark></mark>
-          <u></u>
-          <small></small>
-          <del></del>
-          <ins></ins>
-          <sub></sub>
-          <sup></sup>
-          <a href="" target="" title=""></a>
-          <img src="" alt="" width="" height="">
-          <ul></ul>
-          <ol></ol>
-          <li value=""></li>
-          <dl></dl>
-          <dt></dt>
-          <dd></dd>
+<i></i>
+<em></em>
+<mark></mark>
+<u></u>
+<small></small>
+<del></del>
+<ins></ins>
+<sub></sub>
+<sup></sup>
+<a href="" target="" title=""></a>
+<img src="" alt="" width="" height="">
+<ul></ul>
+<ol></ol>
+<li value=""></li>
+<dl></dl>
+<dt></dt>
+<dd></dd>
+<caption></caption>
+<table border="" cellpadding="" cellspacing=""></table>
+<thead></thead>
+<tbody></tbody>
+<tfoot></tfoot>
+<th></th>
+<tr></tr>
+<td colspan="" rowspan=""></td>
+<span></span>
+<br/>
+<hr/>
+<div role="" aria-checked="" tabindex=""></div>
 
+<!--Semantics-->
+<header></header>
+<nav></nav>
+<section></section>
+<aside></aside>
+<footer></footer>
+<main></main>
+<figure></figure>
+<figcaption></figcaption>
+<audio src="" controls autoplay loop muted></audio>
+<video src="" width="" height="" poster="" controls autoplay loop muted ></video>
+<source src="" type="">
+<track src="" kind="" srclang="" label="">
+<!--VTT stands for Video Text Track-->
+
+<form action="" method="" novalidate target=""></form>
+<input type="" required placeholder="" value="" name="" readonly disabled autofocus maxlength="" minlength="">
+<!--
+    input types:
+    1-Text
+    2-Password
+    3-Email
+    4-Submit
+    5-Hidden
+    6-Reset
+    7-Color
+    8-Range "min, max, step, value"
+    9-Number
+    10-Radio "checked"
+    11-File
+    12-Search
+    13-URL
+    14-Date
+    15-Month
+    16-Time
+-->
+<label for=""></label>
+<select name="" id="" multiple></select>
+<optgroup label=""></optgroup>
+<option value="" selected></option>
+<textarea name="" id="" cols="30" rows="10" placeholder=""></textarea>
+<datalist></datalist>
+<q></q>
+<blockquote></blockquote>
+<button></button>
+<wbr>
+<bdi></bdi>
+<code></code>
+<pre></pre>
+<iframe src="" frameborder="0"></iframe>
 
 ```
