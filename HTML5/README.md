@@ -6,15 +6,22 @@
 <html></html>
 <head></head>
 <body></body>
+
+<!--Heading -->
 <h1></h1>
 <h2></h2>
 <h3></h3>
 <h4></h4>
 <h5></h5>
 <h6></h6>
+
+<!--Paragraph -->
 <p></p>
+
+<!--Text Styling-->
 <b></b> <!--to apply bold styling displayed in bold font. It does not carry any semantic meaning -->
-<strong></strong> <!-- is a semantic tag that indicates that the enclosed text is of strong importance or emphasis, is used to indicate text that is more important -->
+<strong></strong> <!-- is a semantic tag that indicates that the enclosed text is of strong importance or emphasis, 
+is used to indicate text that is more important -->
 <i></i>
 <em></em>
 <mark></mark>
@@ -24,14 +31,25 @@
 <ins></ins>
 <sub></sub>
 <sup></sup>
+
+<!--Link anchor-->
 <a href="" target="" title=""></a>
+
+
+<!--Image -->
 <img src="" alt="" width="" height="">
+
+
+<!--Listing-->
 <ul></ul>
 <ol></ol>
 <li value=""></li>
 <dl></dl>
 <dt></dt>
 <dd></dd>
+
+
+<!--Table -->
 <caption></caption>
 <table border="" cellpadding="" cellspacing=""></table>
 <thead></thead>
@@ -40,12 +58,19 @@
 <th></th>
 <tr></tr>
 <td colspan="" rowspan=""></td>
-<span></span>
-<br/>
-<hr/>
-<div role="" aria-checked="" tabindex=""></div>
 
-<!--Semantics-->
+
+ <!--Break to new line-->
+<br/>
+
+<!-- to draw line-->
+<hr/>
+
+<!-- Containers-->
+<div role="" aria-checked="" tabindex=""></div>
+<span></span>
+
+<!--Semantic tags-->
 <header></header>
 <nav></nav>
 <section></section>
@@ -54,12 +79,18 @@
 <main></main>
 <figure></figure>
 <figcaption></figcaption>
+
+
+<!--To import auido and video-->
 <audio src="" controls autoplay loop muted></audio>
 <video src="" width="" height="" poster="" controls autoplay loop muted ></video>
 <source src="" type="">
 <track src="" kind="" srclang="" label="">
 <!--VTT stands for Video Text Track-->
 
+
+
+<!--Forms-->
 <form action="" method="" novalidate target=""></form>
 <input type="" required placeholder="" value="" name="" readonly disabled autofocus maxlength="" minlength="">
 <!--
