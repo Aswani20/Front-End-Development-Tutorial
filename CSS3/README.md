@@ -164,6 +164,15 @@ div{
     /*Syntax => text-shadow: H-shadow V-Shadow Blur Color*/
     text-shadow:0 0 0 red ;
     
+    
+    /*Text align*/
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    direction: ltr;
+    direction: rtl;
+    vertical-align: top;
+    
 } 
 /*End*/
     
