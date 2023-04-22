@@ -123,12 +123,18 @@ div{
     - Allow Elements Before And After It
     - Respect Padding, Margin, Width, Height
 
-
+      different between display:none; Visibility: hidden
+      display: none;  remove element and second element take place
+      visibility: hidden; remove element and keep it's place
     */
 
     display: block;
     display: inline;
     display: inline-block;
+    display: none;
+    visibility: hidden;
+    
+
     }
 
 ```
