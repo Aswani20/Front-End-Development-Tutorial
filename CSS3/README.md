@@ -150,6 +150,15 @@ div{
     min-height: 600px;
     max-height: 1200px;
     
+    
+    /*Overflow*/
+    overflow: auto;
+    overflow: visible;
+    overflow: hidden;
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: auto;
+    
 } 
 /*End*/
     
