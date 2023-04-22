@@ -136,5 +136,32 @@ div{
     
 
     }
+    
+    
+    /*Grouping Multiple Selectors*/
+    .one,
+    .two,
+    .three
+    {
+        padding: 10px;
+        margin: 10px 0;
+        background-color: #EEE;
+    }
+
+    .one{
+        border-bottom: 2px solid red;
+        color: red;
+    }
+
+    .two{
+        border-bottom: 2px solid green;
+        color: green;
+    }
+
+    .three{
+        border-bottom: 2px solid blue;
+        color: blue;
+    }
+
 
 ```
