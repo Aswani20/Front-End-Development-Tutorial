@@ -136,8 +136,8 @@ div{
     display: none;
     visibility: hidden;
     
-
-    } /*End*/
+} 
+/*End*/
     
     
     /*Grouping Multiple Selectors*/
