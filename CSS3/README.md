@@ -166,4 +166,18 @@ div{
     }
 
 
+    /*Nesting*/
+    /*Nesting => Access Element by tag name through his parent*/
+    div p{
+
+    }
+    /*Nesting => Access Element by class through his parent*/
+    div .one{
+
+    }
+    /*Nesting => Access Element by id through his parent*/
+    div #one{
+
+    }
+
 ```
