@@ -159,6 +159,11 @@ div{
     overflow-x: hidden;
     overflow-y: auto;
     
+    
+    /*Text Shadow*/
+    /*Syntax => text-shadow: H-shadow V-Shadow Blur Color*/
+    text-shadow:0 0 0 red ;
+    
 } 
 /*End*/
     
